@@ -2,7 +2,12 @@
 ![image](https://github.com/namishagurunani/ShoePage/assets/126158413/803a24c0-d05a-4707-98c1-26b7954b88fd)
 
 # HTML Explanation:
-
+- 'div' tag is used to cobtain other tag
+- 'h1' tag is used to write the heading 
+- 'p'tag is used to write the paragraph.
+- 'br'tag is used to break the line.
+- 'img' tag is used to insert the image on webpage .
+- 'link'tag is used to link the html and css file.
 # CSS Explanation:
 <ul>
 <li>The * selector resets default margins, paddings, and box-sizing for all elements.</li>
