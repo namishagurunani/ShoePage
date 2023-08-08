@@ -16,5 +16,5 @@
 </ul>
 
 # Submission-Required:
-GitHub Repository Link:[click here]() 
-Hosted Link:[click here]() 
+- GitHub Repository Link:[click here]() 
+- Hosted Link:[click here]() 
